@@ -1,0 +1,12 @@
+2021-12-27 16:49:58,133 INFO  [Log] site_control() PASSED 
+2021-12-27 16:49:58,314 INFO  [Log] account_control() PASSED 
+2021-12-27 16:49:58,407 INFO  [Log] favory_control() PASSED 
+2021-12-27 16:49:59,631 INFO  [Log] cart_control() PASSED 
+2021-12-27 16:50:02,624 INFO  [Log] search_product() PASSED 
+2021-12-27 16:50:09,629 INFO  [Log] scroll_down() PASSED 
+2021-12-27 16:50:27,748 INFO  [Log] select_a_product() PASSED 
+2021-12-27 16:50:43,869 INFO  [Log] add_to_product() PASSED 
+2021-12-27 16:51:07,326 INFO  [Log] go_cart() PASSED 
+2021-12-27 16:51:07,439 INFO  [Log] compare_price() PASSED 
+2021-12-27 16:51:07,546 INFO  [Log] add_to_product_count() PASSED 
+2021-12-27 16:51:13,742 INFO  [Log] delete_product_count() PASSED 
